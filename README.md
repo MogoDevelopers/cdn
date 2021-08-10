@@ -1,3 +1,3 @@
-# CDN Service for Mogodev's Site.
+# Layanan CDN untuk Situs Web Mogodev
 
-**CDN** is a static site which running for GitHub hosted blogs ([Mogodev](https://www.mogodev.id/))
+**CDN Mogodev** adalah situs web statis yang dijalankan untuk mendukung situs web utama ([Mogodev](https://www.mogodev.id/)) dalam penyimpanan berkas statis.
