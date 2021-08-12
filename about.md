@@ -8,7 +8,7 @@ This is a CDN service for all of Mogodev' sites.
 
 ### More Information
 
-Please visit our main domain [mogodev.id].
+Please visit our main domain [[mogodev.id]].
 
 ### Contact me
 
