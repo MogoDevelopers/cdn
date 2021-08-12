@@ -1,15 +1,15 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about.html
 ---
 
-Some information about you!
+This is a CDN service for all of Mogodev' sites.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Please visit our main domain [mogodev.id].
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[hello@mogodev.id](mailto:hello@mogodev.id)
